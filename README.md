@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="440" height="110" src="https://raw.githubusercontent.com/rnikkels/facebookblocklist/master/images/blacklist-fb-insta-logo.png" alt="logo" />
+  <img width="710" height="500" src="https://raw.githubusercontent.com/rnikkels/facebookblocklist/master/images/blacklist-fb-insta-logo.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
