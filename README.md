@@ -10,7 +10,10 @@
 
 </div>
 <div align="center">
-A host file containing domains that belong to facebook, including instagram. WhatsApp is <b>not</b> filtered. The basis of this list comes from <a href="https://github.com/jmdugan/blocklists/tree/master/corporations/facebook">this list</a>, but this list is designed to put in your hosts file of your local machine. I made it that you can use it with your pi-hole
+A host file containing domains that belong to facebook, including instagram. WhatsApp is <b>not</b> filtered. This list is a copy of <a href="https://github.com/jmdugan/blocklists/tree/master/corporations/facebook">this list</a>, but where a this list is designed to put in your hosts file of your local machine, the link I provide is designed to use as Adlist in your pi-hole config.
+Simply copy this url https://raw.githubusercontent.com/rnikkels/facebookblocklist/master/facebook-all-but-whatsapp.txt and paste it in the Adlists section of your pi-hole as shown below.
+<img src="https://raw.githubusercontent.com/rnikkels/facebookblocklist/master/images/pihole-config.png" />
+When you are done update your gravity list and you are done with all the shite suckerberg wants to collect from you.
 </div>
 
 ## <ins>License</ins>     
