@@ -1,11 +1,11 @@
 <div align="center">  
-  <img width="440" height="110" src="https://github.com/rnikkels/facebookblocklist.git/images/blacklist-logo.png" alt="logo" />
+  <img width="440" height="110" src="https://raw.githubusercontent.com/rnikkels/facebookblocklist/master/images/blacklist-logo.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
 
 <div align="center">
-  <h1>Hostfile to block trackers and advertisements</h1> 
+  <h1>Hostfile to block Facebook and Instagramm</h1> 
 </div>
 
 </div>
