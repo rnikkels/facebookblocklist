@@ -5,12 +5,12 @@
 &nbsp;
 
 <div align="center">
-  <h1>Hostfile to block Facebook and Instagramm</h1> 
+  <h1>Hostfile to block Facebook and Instagram</h1> 
 </div>
 
 </div>
 <div align="center">
-A host file containing domains that belong to facebook, including instagram. WhatsApp is <b>not</b> filtered. The basis of this list comes from https://github.com/jmdugan/blocklists/tree/master/corporations/facebook, but this list is designed to put in your hosts file. I made it that you can use it with your pi-hole
+A host file containing domains that belong to facebook, including instagram. WhatsApp is <b>not</b> filtered. The basis of this list comes from <a href="https://github.com/jmdugan/blocklists/tree/master/corporations/facebook">this list</a>, but this list is designed to put in your hosts file of your local machine. I made it that you can use it with your pi-hole
 </div>
 
 ## <ins>License</ins>     
